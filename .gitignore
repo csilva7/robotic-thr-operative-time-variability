@@ -1,0 +1,13 @@
+data/
+*.xlsx
+*.xls
+*.csv
+*.pkl
+out/
+.DS_Store
+__pycache__/
+*.zip
+.venv/
+old_scripts/
+config_local.py
+local_prep/
